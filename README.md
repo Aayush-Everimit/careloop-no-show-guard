@@ -2,7 +2,7 @@
 
 **End-to-end capstone: Python, SQL, Machine Learning and GenAI**
 
-Public repository URL: add the public GitHub URL here before submission.
+Public repository URL: https://github.com/Aayush-Everimit/careloop-no-show-guard
 
 This run was executed locally on 24 November 2026 from the three original CSVs in `data/`. Parts 1–3 completed and were checked against the SQL database. Part 4 is ready to run once `GEMINI_API_KEY` is set in `.env`. Live Open-Meteo temperatures and Gemini labels can change on a later run.
 
